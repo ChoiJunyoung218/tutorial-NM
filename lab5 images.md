@@ -6,3 +6,5 @@
 
 ![image](https://user-images.githubusercontent.com/113822588/198889917-ec598484-f87d-443f-94b4-b2d163f49062.png)
 
+![image](https://user-images.githubusercontent.com/113822588/198890889-13e0798e-e361-4b0a-926a-ead42dada6d1.png)
+pwm oscilloscope
