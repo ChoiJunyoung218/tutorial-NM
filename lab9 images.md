@@ -4,3 +4,7 @@ Configuration
 
 ![image](https://user-images.githubusercontent.com/113822588/204135589-6bde2554-85d5-467c-abe9-9bfadd8c725e.png)
 Circuit Diagram
+
+![image](https://user-images.githubusercontent.com/113822588/204138126-48227397-0763-4d95-8159-736bb45b0498.png)
+ADC Configuration
+
