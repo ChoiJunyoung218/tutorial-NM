@@ -8,3 +8,5 @@ Circuit Diagram
 ![image](https://user-images.githubusercontent.com/113822588/204138126-48227397-0763-4d95-8159-736bb45b0498.png)
 ADC Configuration
 
+![image](https://user-images.githubusercontent.com/113822588/204838701-23d29add-ed65-401b-8c33-7bdcd0f7b7ac.png)
+Demo Video Thumbnail
