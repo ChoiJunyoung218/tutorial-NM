@@ -4,3 +4,5 @@ smart traffic light system
 ![image](https://user-images.githubusercontent.com/113822588/206210578-8e6b19c2-3ae2-4459-8552-cf2786d756c3.png)
 state diagram
 
+![image](https://user-images.githubusercontent.com/113822588/206223791-c76e1572-7b9a-4466-93b0-9632aaec0237.png)
+keyword description
